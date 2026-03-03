@@ -1,5 +1,7 @@
 # xbar-openai-credits-balance
 
+see also: [xbar-anthropic-credits-balance](https://github.com/AdrianNarloch/xbar-anthropic-credits-balance)
+
 macOS [xbar](https://xbarapp.com/) plugin that shows your OpenAI API credits balance in the macOS menu bar.
 
 <img width="136" height="23" alt="xbar-openai-credits-balance" src="https://github.com/user-attachments/assets/60f6b4af-126b-41aa-bd7e-f8b580cf2590" />
